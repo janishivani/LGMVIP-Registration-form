@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(209, 52, 52);
+}
+
+table
+{
+    margin-top: 50px;
+    text-align: center;
+    background: rgb(140, 215, 242);
+    color: rgba(12, 12, 16, 0.918);
+    font-size: 19px;
+    
+}
+#show th,#show td{
+    padding: 13px;
+}
+#btna td input{
+    width: 100%;
+    background-color: orange;
+    color: rgba(255, 255, 255, 0.893);
+    font-size: 22px;
+    border-radius: 1rem;
+    border-color: brown;
+}
+#me{
+    width: 350px;
+    height: 300px;
+}
